@@ -1,0 +1,17 @@
+h2 {
+    color: purple;
+}
+a {
+    color: blue;
+font-size: 1.25em;
+}
+li {
+    color: red;
+font-size: 2em;
+}
+body {
+    background-color: brown;
+}
+img {
+    width: 150px;
+}
